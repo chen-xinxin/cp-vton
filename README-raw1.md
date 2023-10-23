@@ -10,7 +10,7 @@ the reproduction of cp-vton
 
 ## 1. 环境 & 配置
 
-**环境**
+**环境** 
 
 ```
 $ pip list | grep torch
