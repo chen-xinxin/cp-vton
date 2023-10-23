@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# cp-vton
+
 the reproduction of cp-vton
 =======
 # 复现 & 思考
