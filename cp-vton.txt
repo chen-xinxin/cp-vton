@@ -1,0 +1,123 @@
+absl-py @ file:///croot/absl-py_1686852429912/work
+aiohttp @ file:///croot/aiohttp_1694181079612/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+asttokens==2.4.0
+async-timeout @ file:///opt/conda/conda-bld/async-timeout_1664876359750/work
+attrs @ file:///croot/attrs_1668696182826/work
+backcall==0.2.0
+beautifulsoup4==4.12.2
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///tmp/build/80754af9/click_1646056590078/work
+coloredlogs==15.0.1
+contourpy==1.1.1
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.11.0
+decorator==5.1.1
+exceptiongroup==1.1.3
+executing==1.2.0
+filelock==3.12.4
+flatbuffers==23.5.26
+fonttools==4.42.1
+frozenlist @ file:///croot/frozenlist_1670004507010/work
+gdown==4.7.1
+google-auth @ file:///croot/google-auth_1694152708165/work
+google-auth-oauthlib @ file:///opt/conda/conda-bld/google-auth-oauthlib_1660687784486/work
+grpcio @ file:///croot/grpc-suite_1685746860162/work
+humanfriendly==10.0
+idna @ file:///croot/idna_1666125576474/work
+imageio==2.31.3
+imgviz==1.7.4
+importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
+importlib-resources==6.0.1
+ipython==8.15.0
+jedi==0.19.0
+Jinja2==3.1.2
+joblib==1.3.2
+kiwisolver==1.4.5
+labelme==5.3.1
+lazy_loader==0.3
+Markdown @ file:///croot/markdown_1671541909495/work
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib==3.8.0
+matplotlib-inline==0.1.6
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+mpmath==1.3.0
+multidict @ file:///croot/multidict_1665674239670/work
+natsort==8.4.0
+networkx==3.1
+ninja==1.11.1
+numpy @ file:///croot/numpy_and_numpy_base_1691091611330/work
+nvidia-ml-py==12.535.108
+nvitop==1.3.0
+oauthlib @ file:///croot/oauthlib_1679489621486/work
+onnxruntime==1.15.1
+opencv-python==4.8.0.76
+packaging==23.1
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==9.3.0
+prompt-toolkit==3.0.39
+protobuf==3.20.3
+psutil==5.9.5
+ptyprocess==0.7.0
+pure-eval==0.2.2
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments==2.16.1
+PyJWT @ file:///opt/conda/conda-bld/pyjwt_1657544592787/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305812635/work
+python-dateutil==2.8.2
+pytorch-fid==0.3.0
+PyWavelets==1.4.1
+PyYAML==6.0.1
+QtPy==2.4.0
+requests @ file:///croot/requests_1690400202158/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1614366226499/work
+scikit-image==0.21.0
+scikit-learn==1.3.0
+scipy @ file:///croot/scipy_1691606680890/work/dist/scipy-1.11.1-cp39-cp39-linux_x86_64.whl#sha256=771fdae52630aa660eb5f4792df1a013cde34093b72f006c7ee1b7a031f02d0c
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.5
+stack-data==0.6.2
+sympy==1.12
+taming-transformers==0.0.1
+tensorboard @ file:///home/builder/mesters/opt/envs/tensorflow/conda-bld/tensorboard_1682445826165/work/tensorboard-2.12.1-py3-none-any.whl
+tensorboard-data-server @ file:///croot/tensorboard-data-server_1681498183723/work/tensorboard_data_server-0.7.0-py3-none-manylinux2014_x86_64.whl
+tensorboard-plugin-wit @ file:///home/builder/tkoch/workspace/tensorflow/tensorboard-plugin-wit_1658918494740/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorboardX==2.6.2.2
+termcolor==2.3.0
+threadpoolctl==3.2.0
+tifffile==2023.8.30
+torch==1.13.1
+torch-cluster @ file:///data/torch_cluster-1.6.0%2Bpt113cu116-cp39-cp39-linux_x86_64.whl#sha256=4a2497f99c8f4c00ca597491fef5f146cbcacd02b2fb4aeca0c31ab53e52c9ca
+torch-fidelity==0.3.0
+torch-geometric==2.3.1
+torch-scatter @ file:///data/torch_scatter-2.1.1%2Bpt113cu116-cp39-cp39-linux_x86_64.whl#sha256=6e6172dd5910bc0e208270e336062aaa41c07ad32e39ca91bf39a07bb717ea57
+torch-sparse @ file:///data/torch_sparse-0.6.17%2Bpt113cu116-cp39-cp39-linux_x86_64.whl#sha256=778bf45d67a1bb6cf7a8cb2e0671ac091619a74eb4ae7758bff83d0cea30938b
+torch-spline-conv @ file:///data/torch_spline_conv-1.2.2%2Bpt113cu116-cp39-cp39-linux_x86_64.whl#sha256=364d094920c9a4834c57db41d41b023ce434bc95aa53d5d4ede8f80954380f3f
+torchaudio==0.13.1
+torchgeometry==0.1.2
+torchvision==0.14.1
+tqdm @ file:///croot/tqdm_1679561862951/work
+traitlets==5.9.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+urllib3 @ file:///croot/urllib3_1686163155763/work
+wcwidth==0.2.6
+Werkzeug @ file:///croot/werkzeug_1679489717957/work
+yarl @ file:///opt/conda/conda-bld/yarl_1661437085904/work
+zipp @ file:///croot/zipp_1672387121353/work
